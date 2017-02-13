@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MITKO-VAIO</Machine>
+    <WindowsUser>mitko</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>75250C6C0CCD5A6CF2C084A96077D3545C73DCC8C1C746019504AA037295099C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c3ffcb9c-d665-4151-a513-28fc28034b81_1.0.0.0_neutral__66abmb2r7rh06</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c3ffcb9c-d665-4151-a513-28fc28034b81_66abmb2r7rh06!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c3ffcb9c-d665-4151-a513-28fc28034b81</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mitko</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-04-28T19:41:08.384</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\Application4.exe">
+      <PackagePath>Application4.exe</PackagePath>
+      <Modified>2012-04-29T13:48:28.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\Application4.pdb">
+      <PackagePath>Application4.pdb</PackagePath>
+      <Modified>2012-04-29T13:48:28.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+      <Modified>2012-04-25T01:59:21.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+      <Modified>2012-04-25T02:05:00.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+      <Modified>2012-04-25T02:05:00.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+      <Modified>2012-04-25T02:05:00.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\5.png">
+      <PackagePath>Assets\5.png</PackagePath>
+      <Modified>2012-04-25T02:05:00.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\6.png">
+      <PackagePath>Assets\6.png</PackagePath>
+      <Modified>2012-04-25T02:05:00.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\background.png">
+      <PackagePath>Assets\background.png</PackagePath>
+      <Modified>2012-04-25T01:38:56.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-04-25T02:32:21.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\logoNOBG.png">
+      <PackagePath>Assets\logoNOBG.png</PackagePath>
+      <Modified>2012-04-25T02:47:45.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\msn_online.png">
+      <PackagePath>Assets\msn_online.png</PackagePath>
+      <Modified>2012-04-25T14:08:36.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\shadow.png">
+      <PackagePath>Assets\shadow.png</PackagePath>
+      <Modified>2012-04-25T01:00:21.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-04-25T02:33:40.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-04-25T02:33:00.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <Modified>2012-04-25T02:39:19.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\Assets\splash.jpg">
+      <PackagePath>Assets\splash.jpg</PackagePath>
+      <Modified>2012-04-25T02:30:14.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+      <Modified>2012-04-29T10:03:55.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\BasicPage2.xaml">
+      <PackagePath>BasicPage2.xaml</PackagePath>
+      <Modified>2012-04-28T16:50:49.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\BasicPage3.xaml">
+      <PackagePath>BasicPage3.xaml</PackagePath>
+      <Modified>2012-04-29T10:21:15.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\BasicPage4.xaml">
+      <PackagePath>BasicPage4.xaml</PackagePath>
+      <Modified>2012-04-25T15:26:50.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\BasicPage5.xaml">
+      <PackagePath>BasicPage5.xaml</PackagePath>
+      <Modified>2012-04-25T15:33:35.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\BasicPage6.xaml">
+      <PackagePath>BasicPage6.xaml</PackagePath>
+      <Modified>2012-04-25T14:01:59.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-25T01:15:54.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\BlankPage.xaml">
+      <PackagePath>BlankPage.xaml</PackagePath>
+      <Modified>2012-04-29T12:35:35.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-04-24T20:06:35.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mitko\Documents\Visual Studio 11\Projects\Application4\Application4\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-04-28T11:15:06.274</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

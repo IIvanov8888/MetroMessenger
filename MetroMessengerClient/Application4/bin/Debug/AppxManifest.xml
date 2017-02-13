@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="c3ffcb9c-d665-4151-a513-28fc28034b81" Publisher="CN=mitko" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>MetroMessenger</DisplayName>
+    <PublisherDisplayName>mitko</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>Application4</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="en-US" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="Application4.exe" EntryPoint="Metro Messenger.App">
+      <VisualElements DisplayName="Metro Messenger" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Metro Messenger" ForegroundText="dark" BackgroundColor="#222222">
+        <DefaultTile ShowName="noLogos" WideLogo="Assets\WideLogo.png" />
+        <SplashScreen Image="Assets\splash.jpg" BackgroundColor="#e2e2e2" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClientServer" />
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

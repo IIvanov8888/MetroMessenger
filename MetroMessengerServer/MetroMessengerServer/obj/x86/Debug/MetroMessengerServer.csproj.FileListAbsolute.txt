@@ -1,0 +1,8 @@
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\bin\Debug\MetroMessengerServer.exe
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\bin\Debug\MetroMessengerServer.pdb
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\obj\x86\Debug\MetroMessengerServer.Form1.resources
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\obj\x86\Debug\MetroMessengerServer.Properties.Resources.resources
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\obj\x86\Debug\MetroMessengerServer.csproj.GenerateResource.Cache
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\obj\x86\Debug\MetroMessengerServer.exe
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\obj\x86\Debug\MetroMessengerServer.pdb
+C:\Users\mitko\Desktop\C#\Workspace\MetroMessengerServer\MetroMessengerServer\obj\x86\Debug\MetroMessengerServer.csprojResolveAssemblyReference.cache
